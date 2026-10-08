@@ -70,3 +70,15 @@ DD-WRT Pilot is a proprietary, closed-source application developed and maintaine
 For feedback, support, or inquiries:
 
 **ddwrtpilot@gmail.com**
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="About.jpg" width="250" alt="About DD-WRT Pilot">
+  <img src="Backup.jpg" width="250" alt="Backup">
+  <img src="Console.jpg" width="250" alt="Console">
+  <img src="Firmware.jpg" width="250" alt="Firmware">
+  <img src="Usage.jpg" width="250" alt="Usage">
+</p>
