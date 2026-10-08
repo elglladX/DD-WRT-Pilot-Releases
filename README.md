@@ -64,7 +64,6 @@ The application, features, and user interface may continue to evolve as developm
 
 DD-WRT Pilot is a proprietary, closed-source application developed and maintained by **Amr Nour**.
 
-The source code is not publicly available.
 
 ## Contact
 
